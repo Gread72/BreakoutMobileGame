@@ -1,0 +1,15 @@
+# Build files
+.DS_Store
+.classpath
+.project
+.settings/
+proguard-project.txt
+project.properties
+
+gen/
+bin/
+libs/
+
+lint.xml
+
+
